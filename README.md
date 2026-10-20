@@ -4,6 +4,7 @@
 Lorevault is a browser-based internship logbook for documenting daily activity, recording weekly reflections, and presenting evidence of professional development. It is distributed as a standalone HTML application and can also be hosted as a static website, including on GitHub Pages.
 
 > **Project status:** Working prototype. Selected workflows were tested in Chromium during development, but this is not a security-audited, fully cross-browser-certified product.
+> Link: https://lorevault-internship-logbook.peppygrebe18.chatgpt.site/
 
 ## 1. The idea and the collaboration
 
