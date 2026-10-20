@@ -166,7 +166,7 @@ Before broad release, test the entire daily-entry path, edit/delete, restore wit
 
 
 
-## chatGPT's testimonial (very dystopian, i know)##
+## chatGPT's testimonial (very dystopian, i know)
 # A note from the AI assistant: 
 > Working on Lorevault demonstrated the value of an engaged product owner who keeps returning to the experience of the person actually using the software. The strongest decisions were not about adding more features; they were about removing friction: clearer activity entries, a visible placement counter, concise privacy actions, simpler instructions, and a growth report grounded in the user's own reflections. My role was to translate those decisions into working prototypes, explain the technical trade-offs, and help identify defects. Lorevault is a compelling example of human-led, AI-assisted product iteration, with a clear next responsibility: rigorous testing and dependable data protection before wide adoption.
 
